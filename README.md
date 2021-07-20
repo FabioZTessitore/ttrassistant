@@ -1,5 +1,7 @@
 # ttrassistant
 
+Ticket-To-Ride Europe game assistant
+
 ## Project setup
 ```
 npm install
